@@ -12,7 +12,7 @@ https://chrome.google.com/webstore/detail/web-page-downloader/ejogdiaekklncfcfdf
 - Copy all your download files in source folder.
 - Execute run.bat file.
 - target will contain all divide files and folder as per servier folder stracure.
-- Watch video [Web Page Downloader] (https://www.youtube.com/watch?v=aQfyLzz8jUQ)
+- Watch video [Web Page Downloader] (https://youtu.be/aQfyLzz8jUQ)
 
 ## Credits
 Prashant
