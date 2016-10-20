@@ -17,4 +17,4 @@ https://chrome.google.com/webstore/detail/web-page-downloader/ejogdiaekklncfcfdf
 ## Credits
 Prashant
 
-[![Analytics](https://ga-beacon.appspot.com/UA-70337513-5/chromeskel_a/readme)](https://github.com/prashantkoshta/utility-webpage)
+[![Analytics](https://ga-beacon.appspot.com/UA-70337513-5/chromeskel_a/readme?pixel)](https://github.com/prashantkoshta/utility-webpage)
